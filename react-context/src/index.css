@@ -1,0 +1,12 @@
+.modal {
+  display: none;
+}
+.active {
+  display: block;
+}
+
+.container {
+  background-color: rgb(224, 239, 240);
+  width: 150px;
+  height: 100px;
+}
